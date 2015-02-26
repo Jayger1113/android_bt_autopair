@@ -1,2 +1,3 @@
 # android_bt_autopair
-auto pair bluetooth device without system setting
+eclipse project for 
+auto pair bluetooth audio device and a2dp without system setting
